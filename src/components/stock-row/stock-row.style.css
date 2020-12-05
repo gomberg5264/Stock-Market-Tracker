@@ -1,0 +1,13 @@
+.list-item {
+    background: lightslategray;
+    padding: 0.5rem;
+    text-align: center;
+    border-bottom: 1px dotted white;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 1.6rem;
+}
+
+.change {
+    font-size: 1.3rem;
+}

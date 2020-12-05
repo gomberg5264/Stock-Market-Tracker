@@ -1,0 +1,16 @@
+.list {
+  width: 99vw;
+  margin: 1rem auto;
+  padding: 0.5rem 0.5rem;
+  list-style-type: none;
+}
+
+.list-title {
+  text-align: center;
+  border: 1px dotted grey;
+  border-bottom: none;
+  padding: 0.3rem;
+  letter-spacing: 3px;
+  color: grey;
+  text-shadow: 1px 1px black;
+}
